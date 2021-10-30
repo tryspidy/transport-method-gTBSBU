@@ -1,0 +1,11 @@
+Application layer and transport layers
+of a network are used by SOAP; HTTP
+and SMTP are the valid protocol of
+the application layer used as the
+transport for SOAP. HTTP is more preferable,
+since it works well with the current
+Internet infrastructure, in particular
+with firewalls.The SOAP requests can 
+be sent using an HTTP GET method while
+the specification only contains 
+details about HTTP POST.
